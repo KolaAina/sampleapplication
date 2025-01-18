@@ -4,4 +4,5 @@ this is the last commit for today
 THIS IS THE LATTEST COMMIT FOR TONIGHT
 OKAY THIS IS FOR YAYA, HOPE SHES IN THIS CLASS
 this is a mannual proccess
-test trigger for pipeline
+test trigger for newpipeline
+sonarqube giving issues in pipeline
